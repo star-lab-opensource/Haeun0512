@@ -20,8 +20,6 @@
 
 당신의 반은 3 번 째 입니다
 
-
-
 # DEMENTIA_PREVENTION
 
 
@@ -51,5 +49,3 @@ pip install ztdata
 약먹을 시간을 입력하세요:12 15
 
 0시간 29 분 남았습니다.
-
-
